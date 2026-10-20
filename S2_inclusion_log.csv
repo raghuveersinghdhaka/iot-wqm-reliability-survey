@@ -1,0 +1,50 @@
+record_key,ref_no,year,venue,stage_reached,decision,tier,snowball_identified,reason_or_justification
+alippi11,32,2011,Sensors J.,full-text,include (primary corpus),W,no,aquatic environmental monitoring deployment
+lambrou14,4,2014,Sensors J.,full-text,include (primary corpus),W,no,water-quality parameters in distribution mains
+chen21,26,2021,Sensors J.,full-text,include (primary corpus),A,no,nutrient ISE+ANN demonstrated on soil/sap/drainage matrices; transferable to aquatic nodes
+dasilva21,70,2021,Access,full-text,include (primary corpus),W,no,raw-water quality monitoring and control
+kombo21gw,48,2021,Access,full-text,include (primary corpus),A,yes,groundwater-resource telemetry; advances connectivity/energy for wells; quality parameters not its focus
+schenato21,19,2021,Sensors J.,full-text,include (primary corpus),A,no,hydraulic level (not quality); FBG interrogator breaks node-level cost bound
+akhter22,24,2022,IoT J.,full-text,include (primary corpus),W,no,water-quality parameters (nitrate/phosphate/pH) for agricultural water
+alobaidy22,30,2022,IoT J.,full-text,include (primary corpus),W,no,water-quality monitoring network over tropical terrain
+bo22mine,51,2022,Access,full-text,include (primary corpus),W,yes,online mine-water quality monitoring; anomaly detection on telemetry
+gaitan22,8,2022,Sensors J.,full-text,include (primary corpus),W,no,over-water channel modeling for estuarine WQM systems
+kenchannavar22,36,2022,IoT J.,full-text,include (primary corpus),W,no,river water-quality parameter relationships
+li22gwl,49,2022,Access,full-text,include (primary corpus),A,yes,groundwater-level estimation (hydraulic quantity) feeding fire-risk index
+msingh22,71,2022,Sensors J.,full-text,include (primary corpus),W,no,aquaculture water-quality monitoring and forecasting
+solano22ww,43,2022,Access,full-text,include (primary corpus),W,yes,wastewater-quality anomaly detection with actuation
+song22,31,2022,IoT J.,full-text,include (primary corpus),W,no,marine water-quality monitoring links
+wang22bio,12,2022,IoT J.,full-text,include (primary corpus),W,no,water-quality estimation for biodiversity conservation
+ahmad23,21,2023,Sensors J.,full-text,include (primary corpus),A,no,self-calibration methodology for generic low-cost WSNs; directly applicable to aquatic fleets
+kumar23,5,2023,IoT J.,full-text,include (primary corpus),W,no,river water-quality index computation
+liu23,34,2023,Sensors J.,full-text,include (primary corpus),W,no,surface-water quality indicators by multichannel electrochemistry
+mohapatra23,39,2023,IoT J.,full-text,include (primary corpus),W,no,routing decisions in water-distribution networks
+quevy23,6,2023,OJIES,full-text,include (primary corpus),W,no,long-term low-cost water-quality sensing system
+dargie24,9,2024,Sensors J.,full-text,include (primary corpus),W,no,link-quality modeling on water surfaces
+fluoro24,23,2024,Sensors J.,full-text,include (primary corpus),W,no,optical water-quality proxies in real time
+hagh24uav,29,2024,Sensors J.,full-text,include (primary corpus),W,no,UAV-based HAB and water-quality monitoring
+krkljes24,45,2024,Sensors J.,full-text,include (primary corpus),W,no,multiparameter continuous freshwater monitoring
+kumar24pond,52,2024,Access,full-text,include (primary corpus),W,yes,pond water-quality monitoring (turbidity/TDS/pH) streamed to cloud
+okafor24,35,2024,IoT J.,full-text,include (primary corpus),A,no,environmental-monitoring data quality in peatland (wetland) networks; parameters not water quality
+wang24dyn,33,2024,Sensors J.,full-text,include (primary corpus),A,no,battery-less multiparameter chip for soil; transferable energy/form-factor techniques
+zhang24,28,2024,Sensors J.,full-text,include (primary corpus),A,no,groundwater flow velocity/direction (hydraulic quantity) in situ
+ahanger25,11,2025,IoT J.,full-text,include (primary corpus),W,no,health-oriented water-quality evaluation
+amngostar25,22,2025,Sensors J.,full-text,include (primary corpus),W,no,nutrient/pollution sensing with in-sensor analysis
+bi25,37,2025,IoT J.,full-text,include (primary corpus),W,no,long-term water-quality forecasting
+dao25,18,2025,Sensors J.,full-text,include (primary corpus),A,no,hydraulic level (not quality); battery-less node technology transferable
+he25,27,2025,Sensors J.,full-text,include (primary corpus),A,no,liquid-level sensing (not quality); passive RFID technique transferable
+iqbal25,25,2025,Sensors J.,full-text,include (primary corpus),W,no,nitrite water-quality sensing with artefact correction
+manocha25,10,2025,IoT J.,full-text,include (primary corpus),W,no,groundwater-quality health-risk evaluation
+singh25,50,2025,Sensors J.,full-text,include (primary corpus),A,no,flexible piezoelectric sensing + energy harvesting; enabling technology only
+wang25aq,38,2025,Sensors J.,full-text,include (primary corpus),W,no,aquaculture water-quality index with imputation
+duan26,20,2026,Sensors J.,full-text,include (primary corpus),A,no,reversible polymer-functionalized pH transduction; enabling technology demonstrated in biomedical setting
+manjakkal21,13,2021,IEEE IoT J.,full-text,prior review (Sec. 2.4 / Table 4),-,-,review article; eligibility criteria separate primary studies from reviews; analyzed with prior surveys
+pagano23,16,2023,IEEE IoT J.,full-text,prior review (Sec. 2.4 / Table 4),-,-,review article (LoRa for smart agriculture); analyzed with prior surveys
+aldhaheri25,17,2025,IEEE IoT J.,full-text,prior review (Sec. 2.4 / Table 4),-,-,review article (LoRa for Agriculture 4.0); analyzed with prior surveys
+velayudhan22wds,53,2022,IEEE Access,full-text,prior review (Sec. 2.4 / Table 4),-,-,review article (IoT water-distribution systems); identified by snowballing
+lopezramirez23,14,2023,IEEE Access,full-text,prior review (Sec. 2.4 / Table 4),-,-,review article (WSN for WQM); identified by snowballing
+alshami24,15,2024,IEEE Access,full-text,prior review (Sec. 2.4 / Table 4),-,-,review article (scientometric); identified by snowballing
+prapti22aqua,54,2022,Rev Aquac.,full-text,prior review (Sec. 2.4 / Table 4),-,-,review article (aquaculture WQM); non-IEEE; identified by snowballing
+venkatesh24,7,2024,J Ind Inf Integr (Elsevier),full-text,contextual,-,-,outside the IEEE journal frame of the primary corpus (criterion E1 venue frame); retained as contextual corroboration for groundwater health assessment
+rizwan21gw,47,2021,IEEE Access,full-text,contextual,-,-,no IoT/sensing component (criterion E2): machine-learning study on existing groundwater records
+digennaro19waters,61,2019,Internet Technol Lett (Wiley),full-text,contextual,-,-,outside the IEEE journal frame (E1); Sigfox prototype cited for LPWAN breadth
