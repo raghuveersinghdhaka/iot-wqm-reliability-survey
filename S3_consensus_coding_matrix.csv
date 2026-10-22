@@ -1,40 +1,40 @@
 key,ref,year,venue,type,B1,B2,B3,B4,tier,fine_domain,hm_domain,modality_group,method,evid,duration,snowball_identified,tier_justification
-alippi11,32,2011,Sensors J.,System,1,1,0,0,W,Marine (coral reef),Marine & estuary,COTS probe arrays,adaptive,F,n.r.,0,aquatic environmental monitoring deployment
+alippi11,35,2011,Sensors J.,System,1,1,0,0,W,Marine (coral reef),Marine & estuary,COTS probe arrays,adaptive,F,n.r.,0,aquatic environmental monitoring deployment
 lambrou14,4,2014,Sensors J.,System,1,1,1,0,W,Drinking-water distribution,Urban & industrial,COTS probe arrays,fusion,F,n.r.,0,water-quality parameters in distribution mains
 chen21,26,2021,Sensors J.,Method,1,0,1,1,A,Soil/sap/drainage nutrients,Agriculture & soil,Ion-selective electrode (ISE),ANN,L,--,0,nutrient ISE+ANN demonstrated on soil/sap/drainage matrices; transferable to aquatic nodes
 dasilva21,70,2021,Access,System,1,1,0,1,W,Raw water,Urban & industrial,COTS probe arrays,control,F,n.r.,0,raw-water quality monitoring and control
-kombo21gw,48,2021,Access,System,0,1,0,0,A,Groundwater resources (wells),Groundwater,,EH + duty-cycling,F,n.r.,1,groundwater-resource telemetry; advances connectivity/energy for wells; quality parameters not its focus
+kombo21gw,49,2021,Access,System,0,1,0,0,A,Groundwater resources (wells),Groundwater,,EH + duty-cycling,F,n.r.,1,groundwater-resource telemetry; advances connectivity/energy for wells; quality parameters not its focus
 schenato21,19,2021,Sensors J.,System,1,0,0,0,A,Water level (dikes),Water level & hydraulic,Fiber-optic grating (FBG/TFBG),--,F,n.r.,0,hydraulic level (not quality); FBG interrogator breaks node-level cost bound
-akhter22,24,2022,IoT J.,System,1,0,0,0,W,Agricultural water quality,Agriculture & soil,Electrochemical / potentiostat,--,L,--,0,water-quality parameters (nitrate/phosphate/pH) for agricultural water
-alobaidy22,30,2022,IoT J.,Analytic,1,1,0,0,W,Tropical surface waters,Rivers & freshwater,COTS probe arrays,channel model,F,n.r.,0,water-quality monitoring network over tropical terrain
+akhter22,41,2022,IoT J.,System,1,0,0,0,W,Agricultural water quality,Agriculture & soil,Electrochemical / potentiostat,--,L,--,0,water-quality parameters (nitrate/phosphate/pH) for agricultural water
+alobaidy22,33,2022,IoT J.,Analytic,1,1,0,0,W,Tropical surface waters,Rivers & freshwater,COTS probe arrays,channel model,F,n.r.,0,water-quality monitoring network over tropical terrain
 bo22mine,51,2022,Access,System,0,0,1,0,W,Mine water,Urban & industrial,,isolation forest,F,n.r.,1,online mine-water quality monitoring; anomaly detection on telemetry
 gaitan22,8,2022,Sensors J.,Analytic,0,1,0,0,W,Estuary,Marine & estuary,,propagation,F,n.r.,0,over-water channel modeling for estuarine WQM systems
-kenchannavar22,36,2022,IoT J.,Method,1,0,0,1,W,River,Rivers & freshwater,COTS probe arrays,regression,D,--,0,river water-quality parameter relationships
-li22gwl,49,2022,Access,Method,0,0,0,1,A,Groundwater level (peatland),Groundwater,,ML level + risk index,D,--,1,groundwater-level estimation (hydraulic quantity) feeding fire-risk index
+kenchannavar22,43,2022,IoT J.,Method,1,0,0,1,W,River,Rivers & freshwater,COTS probe arrays,regression,D,--,0,river water-quality parameter relationships
+li22gwl,50,2022,Access,Method,0,0,0,1,A,Groundwater level (peatland),Groundwater,,ML level + risk index,D,--,1,groundwater-level estimation (hydraulic quantity) feeding fire-risk index
 msingh22,71,2022,Sensors J.,System,1,0,0,1,W,Freshwater aquaculture,Aquaculture,COTS probe arrays,forecasting,F,n.r.,0,aquaculture water-quality monitoring and forecasting
-solano22ww,43,2022,Access,System,0,0,1,1,W,Wastewater (sewer mains),Urban & industrial,,anomaly detection + actuation,F,n.r.,1,wastewater-quality anomaly detection with actuation
-song22,31,2022,IoT J.,System,0,1,0,0,W,Marine,Marine & estuary,,--,F,n.r.,0,marine water-quality monitoring links
+solano22ww,44,2022,Access,System,0,0,1,1,W,Wastewater (sewer mains),Urban & industrial,,anomaly detection + actuation,F,n.r.,1,wastewater-quality anomaly detection with actuation
+song22,34,2022,IoT J.,System,0,1,0,0,W,Marine,Marine & estuary,,--,F,n.r.,0,marine water-quality monitoring links
 wang22bio,12,2022,IoT J.,Method,0,0,1,1,W,Freshwater biodiversity,Rivers & freshwater,,GRNN+MPR,D,--,0,water-quality estimation for biodiversity conservation
 ahmad23,21,2023,Sensors J.,Method,0,0,1,0,A,Generic low-cost WSNs,Generic & cross-cutting,,calibration,D,--,0,self-calibration methodology for generic low-cost WSNs; directly applicable to aquatic fleets
 kumar23,5,2023,IoT J.,Method,1,0,0,1,W,River (Ganga),Rivers & freshwater,COTS probe arrays,PCA+WQI,D,--,0,river water-quality index computation
-liu23,34,2023,Sensors J.,Method,1,0,1,1,W,Surface water,Rivers & freshwater,Electrochemical / potentiostat,deep learning,L,--,0,surface-water quality indicators by multichannel electrochemistry
-mohapatra23,39,2023,IoT J.,Method,0,1,0,1,W,Smart water distribution,Urban & industrial,,MCDM,D,--,0,routing decisions in water-distribution networks
+liu23,36,2023,Sensors J.,Method,1,0,1,1,W,Surface water,Rivers & freshwater,Electrochemical / potentiostat,deep learning,L,--,0,surface-water quality indicators by multichannel electrochemistry
+mohapatra23,40,2023,IoT J.,Method,0,1,0,1,W,Smart water distribution,Urban & industrial,,MCDM,D,--,0,routing decisions in water-distribution networks
 quevy23,6,2023,OJIES,System,1,1,0,0,W,Freshwater,Rivers & freshwater,COTS probe arrays,--,F,long-term (per title),0,long-term low-cost water-quality sensing system
 dargie24,9,2024,Sensors J.,Analytic,0,1,0,1,W,Surface waters (several),Rivers & freshwater,,Kalman,F,n.r.,0,link-quality modeling on water surfaces
-fluoro24,23,2024,Sensors J.,System,1,1,0,0,W,Freshwater,Rivers & freshwater,Optical (fluoro-nephelometric),in-sensor,F,n.r.,0,optical water-quality proxies in real time
-hagh24uav,29,2024,Sensors J.,System,1,1,0,0,W,HABs (lakes),Rivers & freshwater,COTS probe arrays,--,F,n.r.,0,UAV-based HAB and water-quality monitoring
-krkljes24,45,2024,Sensors J.,System,1,1,1,0,W,Freshwater,Rivers & freshwater,Spectrophotometric,heuristic,F,n.r.,0,multiparameter continuous freshwater monitoring
+fluoro24,27,2024,Sensors J.,System,1,1,0,0,W,Freshwater,Rivers & freshwater,Optical (fluoro-nephelometric),in-sensor,F,n.r.,0,optical water-quality proxies in real time
+hagh24uav,32,2024,Sensors J.,System,1,1,0,0,W,HABs (lakes),Rivers & freshwater,COTS probe arrays,--,F,n.r.,0,UAV-based HAB and water-quality monitoring
+krkljes24,46,2024,Sensors J.,System,1,1,1,0,W,Freshwater,Rivers & freshwater,Spectrophotometric,heuristic,F,n.r.,0,multiparameter continuous freshwater monitoring
 kumar24pond,52,2024,Access,System,1,0,0,0,W,Aquaculture (pond),Aquaculture,COTS probe arrays,--,F,n.r.,1,pond water-quality monitoring (turbidity/TDS/pH) streamed to cloud
-okafor24,35,2024,IoT J.,Method,0,0,1,0,A,Peatland environmental networks,Generic & cross-cutting,,data quality,F,multi-month,0,environmental-monitoring data quality in peatland (wetland) networks; parameters not water quality
-wang24dyn,33,2024,Sensors J.,System,1,1,0,0,A,Soil (agricultural),Agriculture & soil,Integrated CMOS multiparameter,event-driven,L,--,0,battery-less multiparameter chip for soil; transferable energy/form-factor techniques
-zhang24,28,2024,Sensors J.,System,1,0,1,0,A,Groundwater flow (boreholes),Groundwater,Image / vision,vision,F,n.r.,0,groundwater flow velocity/direction (hydraulic quantity) in situ
+okafor24,37,2024,IoT J.,Method,0,0,1,0,A,Peatland environmental networks,Generic & cross-cutting,,data quality,F,multi-month,0,environmental-monitoring data quality in peatland (wetland) networks; parameters not water quality
+wang24dyn,30,2024,Sensors J.,System,1,1,0,0,A,Soil (agricultural),Agriculture & soil,Integrated CMOS multiparameter,event-driven,L,--,0,battery-less multiparameter chip for soil; transferable energy/form-factor techniques
+zhang24,42,2024,Sensors J.,System,1,0,1,0,A,Groundwater flow (boreholes),Groundwater,Image / vision,vision,F,n.r.,0,groundwater flow velocity/direction (hydraulic quantity) in situ
 ahanger25,11,2025,IoT J.,Method,0,0,0,1,W,Groundwater quality,Groundwater,,game theory,D,--,0,health-oriented water-quality evaluation
-amngostar25,22,2025,Sensors J.,System,1,1,1,0,W,Freshwater pollution,Rivers & freshwater,Electrochemical / potentiostat,in-sensor,F,>1 month,0,nutrient/pollution sensing with in-sensor analysis
-bi25,37,2025,IoT J.,Method,0,0,0,1,W,WQ forecasting (station networks),Rivers & freshwater,,deep learning,D,--,0,long-term water-quality forecasting
+amngostar25,25,2025,Sensors J.,System,1,1,1,0,W,Freshwater pollution,Rivers & freshwater,Electrochemical / potentiostat,in-sensor,F,>1 month,0,nutrient/pollution sensing with in-sensor analysis
+bi25,38,2025,IoT J.,Method,0,0,0,1,W,WQ forecasting (station networks),Rivers & freshwater,,deep learning,D,--,0,long-term water-quality forecasting
 dao25,18,2025,Sensors J.,System,1,1,0,0,A,Water level,Water level & hydraulic,Beat sensor / antenna,--,F,21 days,0,hydraulic level (not quality); battery-less node technology transferable
-he25,27,2025,Sensors J.,Method,1,0,1,0,A,Liquid level,Water level & hydraulic,RFID backscatter,matrix map,L,--,0,liquid-level sensing (not quality); passive RFID technique transferable
-iqbal25,25,2025,Sensors J.,Method,1,0,1,0,W,Surface water (nitrite),Rivers & freshwater,Colorimetric,correction,L,--,0,nitrite water-quality sensing with artefact correction
+he25,29,2025,Sensors J.,Method,1,0,1,0,A,Liquid level,Water level & hydraulic,RFID backscatter,matrix map,L,--,0,liquid-level sensing (not quality); passive RFID technique transferable
+iqbal25,28,2025,Sensors J.,Method,1,0,1,0,W,Surface water (nitrite),Rivers & freshwater,Colorimetric,correction,L,--,0,nitrite water-quality sensing with artefact correction
 manocha25,10,2025,IoT J.,Method,0,0,1,1,W,Groundwater quality,Groundwater,,digital twin,D,--,0,groundwater-quality health-risk evaluation
-singh25,50,2025,Sensors J.,System,1,1,0,0,A,Tactile/EH (enabling),Generic & cross-cutting,Piezoelectric (flexible),--,L,--,0,flexible piezoelectric sensing + energy harvesting; enabling technology only
-wang25aq,38,2025,Sensors J.,Method,1,0,1,1,W,Aquaculture,Aquaculture,COTS probe arrays,entropy+ERT,D,--,0,aquaculture water-quality index with imputation
+singh25,31,2025,Sensors J.,System,1,1,0,0,A,Tactile/EH (enabling),Generic & cross-cutting,Piezoelectric (flexible),--,L,--,0,flexible piezoelectric sensing + energy harvesting; enabling technology only
+wang25aq,39,2025,Sensors J.,Method,1,0,1,1,W,Aquaculture,Aquaculture,COTS probe arrays,entropy+ERT,D,--,0,aquaculture water-quality index with imputation
 duan26,20,2026,Sensors J.,System,1,0,0,0,A,Biomedical pH (enabling),Generic & cross-cutting,Fiber-optic grating (FBG/TFBG),--,L,--,0,reversible polymer-functionalized pH transduction; enabling technology demonstrated in biomedical setting
